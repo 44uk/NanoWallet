@@ -165,6 +165,8 @@ function ChineseProvider($translateProvider) {
         GENERAL_INVOICE: '账单',
 
         // HOME MODULE
+        HOME_NEW_VERSION_AVAILABLE: 'New version available!',
+        HOME_DOWNLOAD: 'Download',
         HOME_UNSUPPORTED_BROWSER: '对不起，但你不能在这里安全地使用NanoWallet...',
         HOME_RECOMMENDED_BROWSERS: '推荐的浏览器:',
         HOME_FEATURE_STAND_BY: '将光标置于特征上以显示信息.',

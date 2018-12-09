@@ -168,6 +168,8 @@ function EnglishProvider($translateProvider) {
         GENERAL_VERIFY: 'Verify',
 
         // HOME MODULE
+        HOME_NEW_VERSION_AVAILABLE: 'New version available!',
+        HOME_DOWNLOAD: 'Download',
         HOME_UNSUPPORTED_BROWSER: 'Sorry but you cannot use NEM Wallet safely with this browser...',
         HOME_RECOMMENDED_BROWSERS: 'Recommended browsers are:',
         HOME_FEATURE_STAND_BY: 'Place the cursor on a feature to show information.',

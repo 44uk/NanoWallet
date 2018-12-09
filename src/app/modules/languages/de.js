@@ -165,6 +165,8 @@ function GermanProvider($translateProvider) {
         GENERAL_INVOICE: 'Invoice',
 
         // HOME MODULE
+        HOME_NEW_VERSION_AVAILABLE: 'New version available!',
+        HOME_DOWNLOAD: 'Download',
         HOME_UNSUPPORTED_BROWSER: 'ACHTUNG! Es ist nicht sicher die Nano Wallet mit Ihrem Browser zu verwenden...',
         HOME_RECOMMENDED_BROWSERS: 'Unterstützte Browser:',
         HOME_FEATURE_STAND_BY: 'Place the cursor on a feature to show information.',

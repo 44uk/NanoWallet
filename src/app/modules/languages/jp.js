@@ -168,6 +168,8 @@ function JapaneseProvider($translateProvider) {
       GENERAL_VERIFY: '検証',
 
       // HOME MODULE
+      HOME_NEW_VERSION_AVAILABLE: '新しいバージョンがリリースされています！',
+      HOME_DOWNLOAD: 'ダウンロード',
       HOME_UNSUPPORTED_BROWSER: '申し訳ありません。このブラウザでは安全に NanoWallet を使用する事ができません。',
       HOME_RECOMMENDED_BROWSERS: '推奨ブラウザ：',
       HOME_FEATURE_STAND_BY: '各機能の説明はカーソルを合わせると表示されます。',

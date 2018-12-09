@@ -165,6 +165,8 @@ function RussianProvider($translateProvider) {
         GENERAL_INVOICE: 'Invoice',
 
         // HOME MODULE
+        HOME_NEW_VERSION_AVAILABLE: 'New version available!',
+        HOME_DOWNLOAD: 'Download',
         HOME_UNSUPPORTED_BROWSER: 'Простите, но Вы не можете безопасно использовать NanoWallet в этом браузере...',
         HOME_RECOMMENDED_BROWSERS: 'Рекомендуемые браузеры:',
         HOME_FEATURE_STAND_BY: 'Place the cursor on a feature to show information.',

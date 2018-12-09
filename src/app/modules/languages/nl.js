@@ -168,6 +168,8 @@ function DutchProvider($translateProvider) {
         GENERAL_VERIFY: 'Verifieer',
 
         // HOME MODULE
+        HOME_NEW_VERSION_AVAILABLE: 'New version available!',
+        HOME_DOWNLOAD: 'Download',
         HOME_UNSUPPORTED_BROWSER: 'Sorry, je kan Nano Wallet niet veilig gebruiken met deze browser...',
         HOME_RECOMMENDED_BROWSERS: 'Aanbevolen browsers zijn:',
         HOME_FEATURE_STAND_BY: 'Plaats de cursor op een functie om informatie weer te geven.',
